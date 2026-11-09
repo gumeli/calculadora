@@ -1,10 +1,10 @@
 # Calculadora
-Com seus botões, faz a operação,__
-Resolve contas com precisão.__
-Soma, subtrai e divide também,__
-Facilita a vida de quem a tem.__
+Com seus botões, faz a operação,<br />
+Resolve contas com precisão.<br />
+Soma, subtrai e divide também,<br />
+Facilita a vida de quem a tem.<br />
 
-Números aparecem na telinha,__
-Cada resposta vem rapidinha.__
-Uma ferramenta de grande utilidade,__
-Que ajuda na matemática de verdade!__
+Números aparecem na telinha,<br />
+Cada resposta vem rapidinha.<br />
+Uma ferramenta de grande utilidade,<br />
+Que ajuda na matemática de verdade!<br />
