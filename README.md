@@ -1,25 +1,10 @@
 # Calculadora
-Entre números e operações,
-Existe uma pequena criação,
-Que transforma dúvidas em certezas,
-E resolve contas com destreza.
+Com seus botões, faz a operação,
+Resolve contas com precisão.
+Soma, subtrai e divide também,
+Facilita a vida de quem a tem.
 
-Seus botões guardam sabedoria,
-Somando sonhos a cada dia,
-Subtrai tristezas, multiplica alegria,
-E divide problemas com maestria.
-
-Não tem coração, mas é precisa,
-Não tem voz, mas sempre nos avisa,
-Que até nos cálculos mais complicados,
-Existem caminhos simplificados.
-
-Na tela, números vão surgir,
-Basta apertar para descobrir,
-Entre raízes, frações e divisões,
-Ela desvenda mil questões.
-
-Oh, calculadora, máquina genial,
-Pequena ferramenta, poder colossal!
-Pois mesmo sem saber sonhar,
-Ajuda o mundo a calcular.
+Números aparecem na telinha,
+Cada resposta vem rapidinha.
+Uma ferramenta de grande utilidade,
+Que ajuda na matemática de verdade!
